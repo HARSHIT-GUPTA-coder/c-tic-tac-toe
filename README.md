@@ -1,4 +1,4 @@
-# c-tic-taxc-toe
+# c-tic-tac-toe
 C++ tic tac toe playing program (coded in Turbo C++,so uses conio.h and previous C++ standards)
 
 This is basically a non-graphic version of the famous game: TIC TAC TOE. 
